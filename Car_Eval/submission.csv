@@ -70,7 +70,7 @@ id,output
 68,unacc
 69,unacc
 70,acc
-71,acc
+71,good
 72,acc
 73,vgood
 74,unacc
@@ -258,7 +258,7 @@ id,output
 256,unacc
 257,vgood
 258,unacc
-259,good
+259,vgood
 260,acc
 261,unacc
 262,acc
