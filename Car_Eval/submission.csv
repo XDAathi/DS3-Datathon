@@ -70,7 +70,7 @@ id,output
 68,unacc
 69,unacc
 70,acc
-71,acc
+71,good
 72,acc
 73,vgood
 74,unacc
@@ -358,7 +358,7 @@ id,output
 356,unacc
 357,good
 358,unacc
-359,good
+359,acc
 360,unacc
 361,unacc
 362,acc
@@ -408,7 +408,7 @@ id,output
 406,unacc
 407,unacc
 408,unacc
-409,good
+409,vgood
 410,unacc
 411,unacc
 412,acc
@@ -424,7 +424,7 @@ id,output
 422,unacc
 423,vgood
 424,acc
-425,good
+425,acc
 426,unacc
 427,unacc
 428,unacc
