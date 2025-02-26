@@ -1,7 +1,9 @@
 # DS3-Datathon 2025 - 👑LeCoders
 
 This repo is our submission to the anual 2025 [DS3 Datathon]([https://pages.github.com/](https://ds3utsc.com/datathon)).
+
 With our Group name inspired by the basketball legend Lebron James!
+
 This competion was from Feb 17-22, and consisted of 3 Problems
 
 Our team placed 9th place, out of 180 participants, with a max group size of 4 members.
