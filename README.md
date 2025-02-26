@@ -11,12 +11,14 @@ Our team placed 9th place, out of 100 participants, with a max group size of 4 m
 
 # Problem A: Car Evaluation (Easy)
 Group Accuracy: 95%
+
 This problem, the eaiset of the 3 problems, involves getting a few data points about a vehnicle and predicting the cars saftey rating from that.
 
 [Kaggle Dataset](https://www.kaggle.com/competitions/ds-3-datathon-2025-car-evaluation)
 
 # Problem B: Car Accident Analyasis (Med) 
 Group Accuracy: 93%
+
 This problem is like the first question but you get accident data with tons of different parameters ~30. And you have to predict which source 1 or 0, the data comes from.
 The data is messed up and has missing values, we first cut out any with missing values, and only computer the source off the first 7 parameters in the dataset, this gave us 93% accuracy on our first test
 
