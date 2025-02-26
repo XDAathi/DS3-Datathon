@@ -4,7 +4,7 @@ This repo is our submission to the anuall 2025 [DS3 Datathon]([https://pages.git
 
 This competion was from Feb 17-22, and consisted of 3 Problems
 
-Our team placed 9th place, out of 100 participants, with a max group size of 4 members.
+Our team placed 9th place, out of 180 participants, with a max group size of 4 members.
 
 > [!WARNING]  
 > You will have to clone problem 2 and 3's datasets yoruself and place them inside their respective folders, as the datasets are to large to upload to github.
